@@ -1,0 +1,111 @@
+.header{
+    background: rgb(132, 103, 160);
+    margin-bottom: px;
+}
+.header-logo img{
+    width: 120px;
+    height: 80px;
+}
+.primary-menu{}
+.primary-menu ul{
+    margin-bottom:20px;
+    display: flex;
+    
+}
+.primary-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.primary-menu ul li a{
+    display: block;
+    color: #fff;
+    padding: 0 30px;
+    line-height: 70px;
+   text-decoration: none;
+    margin-bottom: 30px;
+    font-size: 25px;
+    border-right:1px solid #ddd;
+    padding-bottom: 0;
+
+}
+.primary-menu ul li a:hover{
+    background: rgb(102, 99, 94);
+}
+.baneer h1{
+    background: rgb(71, 68, 68);
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+}
+.baneer h2{
+    background: rgb(22, 158, 212);
+    color: #fff;
+   max-width: 500px;
+   margin: auto;
+    font-size: 30px;
+}
+.baneer{
+    background: url(./img/slider\ img.jfif);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about{
+    background-color: aliceblue;
+
+}
+.service{
+        background-color: aliceblue;
+  
+}
+.service span{
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    background: rgb(89, 89, 190);
+    border-radius: 20px 0 ;
+   
+}
+img{
+    max-width: 100%;
+}
+.product-right h2{
+    font-size: 30px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+    text-align: center;
+}
+.product-right h2 ul{}
+.product-right ul li{
+    border: 1px solid #ddd;
+    font-size: 20px;
+    margin-bottom: 10px;
+    list-style: none;
+    padding: 5px 0;
+    background: rgb(116, 215, 233);
+}
+.footer{
+    background: rgb(75, 126, 201);
+    color: #fff;
+    text-align: center;
+}
+.footer p{
+    margin-top: 15px;
+}
+.footer ul{
+    display: inline-block;
+}
+.footer ul li {
+    display:inline-block;
+}
+.footer ul li a{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding:0 20px:
+}
